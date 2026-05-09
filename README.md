@@ -39,11 +39,21 @@ During my capstone project, I owned the full backend of an **Inbound Management 
 
 **End-to-end workflow I implemented:**
 
-```
-Stock Alert → PR (Purchase Request) → PO Approval → Delivery Confirmation
-    → QC Inspection → Incident Handling → Supplementary Receipt
-    → Putaway (Bin Allocation) → Document Signing → Accounting Closure
-```
+<p align="center">
+  <img src="./inbound.jpg" width="700" alt="Warehouse Receiving Flow" /><br/><br/>
+  <b>Warehouse Goods Receiving Process</b>
+</p>
+<hr style="margin: 40px 0;">
+<p align="center">
+  <img src="./PR.jpg" width="700" alt="Purchase request Flow" /><br/><br/>
+  <b>Warehouse Purchase Request Process</b>
+</p>
+<hr style="margin: 40px 0;">
+<p align="center">
+  <img src="./PO.jpg" width="700" alt="Purchase order Flow" /><br/><br/>
+  <b>Warehouse Purchase Order Process</b>
+</p>
+
 
 **Key responsibilities:**
 - Role-based PO creation, editing, submission and multi-level approval
