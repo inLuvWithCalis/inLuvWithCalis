@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Minh Thong</h1>
 
 <p align="center">
-  <em>Backend Developer · C# .NET · Building real enterprise workflows</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;Business+Logic+%3E+Simple+CRUD;Learning+Clean+Architecture+%26+DDD" alt="Typing SVG" />
+  <em>Backend Developer</em>
 </p>
 
 <p align="center">
