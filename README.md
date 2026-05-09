@@ -30,9 +30,9 @@ During my capstone project, I owned the full backend of an **Inbound Management 
 
 ---
 
-## 🏭 Featured Project
+## Featured Project
 
-### [`construction-material-management`](https://github.com/your-username/construction-material-management)
+### [`Construction Material Inventory and Project Cost Management System`](https://github.com/inLuvWithCalis/MatCost)
 
 > Enterprise-grade inbound management system for a construction company.
 > I owned the full backend of the **Inbound module** — from stock shortage alert to accounting closure.
@@ -61,7 +61,7 @@ Stock Alert → PR (Purchase Request) → PO Approval → Delivery Confirmation
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Primary (comfortable)**
 
